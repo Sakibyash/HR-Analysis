@@ -24,7 +24,7 @@ The HR Attendance Analysis Dashboard provides insights into employee attendance 
 
 Here is a sample image of the HR Attendance Analysis Dashboard:
 
-![HR Attendance Dashboard Sample](https://github.com/Sakibyash/HR-Analysis/issues/1#issue-2620638222)
+!(https://github.com/Sakibyash/HR-Analysis/issues/1#issue-2620638222)
 
 ---
 
